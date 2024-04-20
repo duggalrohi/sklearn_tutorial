@@ -1,3 +1,7 @@
+<a target="_blank" href="https://colab.research.google.com/github/duggalrohi/sklearn_tutorial">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 # Scikit-learn Tutorial
 
 Original tutorial material from *Jake VanderPlas*
