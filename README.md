@@ -2,6 +2,38 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+
+
+```python
+from google.colab import drive
+drive.mount('/content/drive/')
+```
+
+Clone repo
+
+```python
+%git clone https://github.com/duggalrohi/sklearn_tutorial.git
+```
+
+Go to `drive`, scroll to `notebooks` directory, right click on `01-Preliminaries.ipynb`, and open with colab.
+
+In a new cell, 
+```python
+from google.colab import drive
+drive.mount('/content/drive/')
+```
+
+Navigate to `notebooks` directory
+```python
+%cd '/content/drive/MyDrive/sklearn_tutorial/notebooks/
+```
+
+Run you notebook.
+
+
+
+
+
 # Scikit-learn Tutorial
 
 Original tutorial material from *Jake VanderPlas*
